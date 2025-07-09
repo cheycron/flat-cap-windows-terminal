@@ -1,0 +1,38 @@
+{
+  "$schema": "https://aka.ms/terminal-profiles-schema",
+  "profiles": {
+    "defaults": {
+      "colorScheme": "Flat Cap",
+      "cursorShape": "bar",
+      "opacity": 100,
+      "padding": "20, 20, 20, 20",
+      "useAcrylic": false
+    },
+    "list": []
+  },
+  "schemes": [
+    {
+      "background": "#1c1e22",
+      "black": "#1c1e22",
+      "blue": "#7a90a2",
+      "brightBlack": "#42474e",
+      "brightBlue": "#8ea5b9",
+      "brightCyan": "#56b6c2",
+      "brightGreen": "#98c379",
+      "brightPurple": "#c678dd",
+      "brightRed": "#e06c75",
+      "brightWhite": "#fcfdff",
+      "brightYellow": "#d19a66",
+      "cursorColor": "#56b6c2",
+      "cyan": "#a3bbce",
+      "foreground": "#e4e6eb",
+      "green": "#98c379",
+      "name": "Flat Cap",
+      "purple": "#c678dd",
+      "red": "#e06c75",
+      "selectionBackground": "#2d3036",
+      "white": "#e4e6eb",
+      "yellow": "#d19a66"
+    }
+  ]
+}
