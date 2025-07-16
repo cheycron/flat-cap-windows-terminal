@@ -2,7 +2,7 @@
   "$schema": "https://aka.ms/terminal-profiles-schema",
   "profiles": {
     "defaults": {
-      "colorScheme": "Flat Cap",
+      "colorScheme": "Flatcap",
       "cursorShape": "bar",
       "opacity": 100,
       "padding": "20, 20, 20, 20",
@@ -12,27 +12,27 @@
   },
   "schemes": [
     {
-      "background": "#1c1e22",
-      "black": "#1c1e22",
-      "blue": "#7a90a2",
-      "brightBlack": "#42474e",
-      "brightBlue": "#8ea5b9",
-      "brightCyan": "#56b6c2",
-      "brightGreen": "#98c379",
-      "brightPurple": "#c678dd",
-      "brightRed": "#e06c75",
-      "brightWhite": "#fcfdff",
-      "brightYellow": "#d19a66",
-      "cursorColor": "#56b6c2",
-      "cyan": "#a3bbce",
-      "foreground": "#e4e6eb",
-      "green": "#98c379",
-      "name": "Flat Cap",
-      "purple": "#c678dd",
-      "red": "#e06c75",
-      "selectionBackground": "#2d3036",
-      "white": "#e4e6eb",
-      "yellow": "#d19a66"
+      "background": "#121418",
+      "black": "#121418",
+      "blue": "#81a1c1",
+      "brightBlack": "#484f5c",
+      "brightBlue": "#88c0d0",
+      "brightCyan": "#00a8e0",
+      "brightGreen": "#84dcc6",
+      "brightPurple": "#81a1c1",
+      "brightRed": "#ff70a6",
+      "brightWhite": "#e4e6e9",
+      "brightYellow": "#ffd670",
+      "cursorColor": "#88c0d0",
+      "cyan": "#8fbcbb",
+      "foreground": "#cbced5",
+      "green": "#84dcc6",
+      "name": "Flatcap",
+      "purple": "#5e81ac",
+      "red": "#ff70a6",
+      "selectionBackground": "#23272f",
+      "white": "#cbced5",
+      "yellow": "#ffd670"
     }
   ]
 }
