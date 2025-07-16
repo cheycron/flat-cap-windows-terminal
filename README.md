@@ -142,5 +142,3 @@ A palette of expressive colors used to communicate important states and draw att
 - **Flatcap 17**: `#84dcc6` - **Success & Confirmation**: Perfect for success messages ("Your changes have been saved"), validation checkmarks, or confirming a successful transaction. It provides positive reinforcement to the user.
 - **Flatcap 18**: `#68b6ef` - **Informational Tips & New Features**: A friendly, neutral color for informational alerts, "did you know?" tips, or highlighting a new feature. It invites discovery without interrupting the user's workflow.
 - **Flatcap 19**: `#00a8e0` - **Key Syntax & Call-to-Action**: A vibrant cyan that serves as a powerful accent. Use it to highlight the most important keywords in code, or for a special call-to-action button that needs to stand out from the primary blue actions.
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/cheycron)
